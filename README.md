@@ -5,4 +5,23 @@
 Link to video - https://www.youtube.com/watch?v=569YZm0X5-0
 
 ### Where to start?
-Look at App.jsx inside the src/ folder 
+
+Look at App.jsx inside the src/ folder
+
+### Screenshots added by Ayush
+
+Index Page
+
+![Index](./src/assets/sc/1_index.PNG)
+
+Login Page
+
+![Index](./src/assets/sc/2_login.PNG)
+
+Signup Page
+
+![Index](./src/assets/sc/3_signup.PNG)
+
+Problems Page
+
+![Index](./src/assets/sc/4_problems.PNG)
