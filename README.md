@@ -16,12 +16,12 @@ Index Page
 
 Login Page
 
-![Index](./src/assets/sc/2_login.PNG)
+![Login](./src/assets/sc/2_login.PNG)
 
 Signup Page
 
-![Index](./src/assets/sc/3_signup.PNG)
+![Signup](./src/assets/sc/3_signup.PNG)
 
 Problems Page
 
-![Index](./src/assets/sc/4_problems.PNG)
+![Problems](./src/assets/sc/4_problems.PNG)
