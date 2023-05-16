@@ -1,0 +1,26 @@
+[
+  {
+    "id": 100,
+    "title": "Bitwise OR Problem",
+    "difficulty": "Medium",
+    "acceptance": "38%"
+  },
+  {
+    "id": 101,
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "Medium",
+    "acceptance": "412%"
+  },
+  {
+    "id": 102,
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "acceptance": "54.9%"
+  },
+  {
+    "id": 103,
+    "title": "Remove Linked List Elements",
+    "difficulty": "Hard",
+    "acceptance": "42%"
+  }
+]
